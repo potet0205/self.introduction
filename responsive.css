@@ -92,7 +92,7 @@
     /* スクロールバーの色を設定する */
     .scrollbar-thumb-black::-webkit-scrollbar-thumb {
         --bg-opacity: 1;
-        background-color: rgb(197, 195, 195);
+        background-color: black;
     }
 
 }
