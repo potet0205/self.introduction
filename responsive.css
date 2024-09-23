@@ -1,4 +1,9 @@
 @media(max-width: 670px) {
+
+    .my-name {
+        width: 80%;
+    }
+
     .card {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
